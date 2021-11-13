@@ -1,0 +1,944 @@
+
+
+
+/*Extra small devices (portrait phones, 320px and up)*/
+@media (min-width: 320px) and (max-width: 575.98px) {
+.h1 {
+    font-size: 27px;
+    
+}
+.btn{
+    margin:36px 0px;
+}
+.problem {    
+    padding: 70px 0;
+}
+.feature-icon {
+    width: 100px;
+    height: 100px;
+    margin-left: 78px;
+    margin-bottom: 24px;
+}
+.yellow {    
+    margin-left: 30px;
+}
+h3 {   
+    text-align: center;
+}
+.p{
+        font-size: 16px;
+    text-align: center;
+}
+.iag {
+    width: 300px;
+    height: 400px;
+}
+.experience {
+    height: 130px;    
+    width: 166px;
+    padding: 8px;    
+    font-weight: 500;
+}
+.service {    
+    margin-bottom: 100px;
+    padding-top: 0px;
+}
+.s-text {
+    margin-top: 0px;
+}
+.twelve {
+    margin-left: 42px;
+    margin-bottom: 17px;
+    margin-top: 10px;
+}
+.div1 {
+    padding: 40px 15px;
+    background: #ffffff;
+    margin-bottom: 15px;
+}
+.cid {
+    bottom: -41px;
+    margin-right: 34px;
+}
+.mlr {
+    margin: 33px 0px;
+    text-align: center;
+}
+.service-bottom-title .ct {    
+    font-size: 18px;
+    margin-left: -62px;    
+}
+.service-bottom-title i {    
+    width: 55px;    
+}
+.h5 {
+    font-size: 24px;    
+    margin-top: 30px;
+    text-align: center;
+}
+.drnoor {
+    font-size: 31px !important;
+}
+.drp {
+    text-align: left;
+}
+.green{
+        font-size: 23px;
+    margin-top: 20px;
+}
+.patient-wrap {
+    padding: 100px 0px;
+    padding-right: 0px;
+}
+.fs-sms {    
+    width: 299px;    
+}
+.app-wrap {   
+    margin-top: -50px;
+}
+.hrgrey {    
+    width: 313px;
+}
+.slick-next {
+    right: -2px;
+}
+.slick-prev {
+    left: 18px;
+}
+.form-wrapper {
+    width: 84%;
+    margin-left: 19px;
+        padding-bottom: 120px;    
+}
+.hw {   
+    width: 115%;
+    margin-bottom: 93px;
+    margin-left: -15px;
+    padding-bottom: 3px;
+}
+.form-counter {
+        padding: 91px 0px;
+       
+    margin-left: -2px;    
+}
+
+.counter-list {
+    width: 51%;
+    float: left;
+    padding: 20px 0px;
+    text-align: center;
+   
+}
+.same {    
+    font-size: 18px;    
+}
+.counter-list:before {
+    content: "";
+    position: absolute;
+    background: grey;
+    
+   height: 0;
+   width: 0;
+    top: 162px;
+    left: 24px;
+}
+.counter-list:after {
+    content: "";
+    position: absolute;
+    background: #6c757d;
+    height: 0px;
+    width: 0px;
+    top: 37px;
+    left: 218px;
+}
+.card-price {    
+    margin-left: 50px;    
+}
+.w25 {    
+    margin-left: 37px;
+}
+.date {   
+    margin-left: 217px;
+}
+.but-white {
+    margin-left: 2px;    
+}
+.fr-button i {
+    
+    top: 60px;
+}
+.f-right{
+    padding-top: 105px;
+    margin-top: 353px;
+}
+
+.f-left{
+    height: 311px;
+    bottom: 317px;
+    padding: 88px 55px;
+    width: 100%
+}
+.f-white {
+    color: #fff;
+    font-size: 31px;
+    margin-bottom: 16px;
+    margin-top: 44px;
+}
+.f-service li a {    
+    font-size: 20px;    
+    line-height: 2;
+    margin-left: 24px;
+}
+.f-service li a:before {
+    width: 16px;
+    left: 3px;
+    margin-top: 21px;
+}
+.grey1 {
+    font-size: 25px;
+}
+.grey {   
+    font-size: 20px;    
+}
+.ex-pos {    
+    margin-bottom: 80px;
+}
+.card {
+    padding: 0px 0;
+    border:0;
+        margin-top: -100px;
+}
+.h5h {
+    font-size: 27px;   
+    margin-left: 89px;
+    margin-top: -56px;
+}
+.blog-content-wrap span i {   
+    font-size: 10px;    
+}
+.marleft {
+    margin-left: 16px;
+}
+.fot-main {   
+    margin-left: 0px;
+}
+.fot-main li a {
+       font-size: 14px;    
+    margin-right: 0px;
+}
+.fot-copy p {
+    font-size: 12px;    
+}
+.feature-icon .ic {
+    margin-top: 40px;    
+}
+.fsdrop {   
+    width: 299px;    
+    margin-bottom: 20px;
+}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+.s-img {
+    margin-bottom: 54px;
+    width: 636px;
+    margin-top: 42px;
+}
+.banner {
+    background-color: #177368;
+    min-height: 400px;
+    padding-top: 22px;
+    padding-bottom: 73px;
+}
+
+
+.f-white {    
+    margin-top: 14px;
+}
+.business-inner p {    
+    font-size: 20px;    
+}
+.heiiit {    
+    width: 110%;    
+}
+.card-price{
+    margin-left: 120px;
+}
+.BC{
+    font-size: 14px;
+    width: 100%;
+
+}
+.service-bottom-title {
+    width:370px;
+    padding: 15px 3px;   
+}
+.service-bottom-title i {    
+    width: 60px;    
+}
+.comment-wrap li i {
+    margin-left: 4px;
+    padding-top: 23px;
+    
+}
+.green{
+    font-size: 29px;
+}
+.mt {
+    margin-top: 60px;
+}
+h3 {
+  font-size: 30px;
+    margin-top: 43px;
+    text-align: center;
+}
+.h1 {
+    font-size: 27px;   
+}
+.card {
+    padding: 0px 0;
+}
+.problem {    
+    padding: 83px 0;
+}
+.hw {
+    width: 110%;
+    margin-top: 29px;    
+    margin-bottom: 187px;
+}
+.experience {    
+    bottom: 0px;    
+}
+.h5{
+    font-size: 18px;
+    margin-left: -2px;
+}
+.service {
+    margin-top: -400px;
+   
+}
+.service-bottom-title .ct{
+        margin-left: -105px;
+}
+.icop{
+    margin-top: 10px;
+}
+.isop{
+
+}
+
+.doctor {   
+    padding-bottom: 209px;
+}
+.counter-list:before {
+    content: "";
+    position: absolute;
+    background: grey;
+    
+   height: 0;
+   width: 0;
+    top: 162px;
+    left: 24px;
+}
+.counter-list:after {
+    content: "";
+    position: absolute;
+    background: #6c757d;
+    height: 0px;
+    width: 0px;
+    top: 37px;
+    left: 218px;
+}
+.counter-list {
+    width: 50%;
+    float: left;
+    padding: 0px 42px;
+    padding-right: 68px;
+    padding-left: 15px;
+}
+.same{
+    font-size: 17px;
+}
+.h290 {    
+    font-size: 40px;
+}
+
+.h215 {    
+    font-size: 40px;
+}
+
+.h315 {    
+    font-size: 40px;
+}
+
+.h125 {    
+    font-size: 40px;
+}
+.gh {
+    font-size: 26px;
+    text-align: left;
+}
+.w25{
+    margin-left: 123px;
+}
+.form-wrapper {
+    
+    margin-left: 16px;
+ 
+}
+.form-style input {
+    
+    width:530px;
+}
+.fs-sms {    
+    width: 530px;    
+}
+.h5h {
+    
+    margin-top: -40px;
+}
+.cl{
+    
+    margin-left: -16px;
+}
+.about {
+    
+    min-height: 500px;
+    padding-bottom: 90px;
+}
+.ceo {
+    margin-top: 28px;
+    margin-left: -33px;
+}
+.fot-main {    
+    margin-left: 20px;
+}
+.fot-main li a {    
+    margin-right: 9px;
+}
+.comment-img {
+    margin-left: 0px;   
+    padding: 20px 0px;
+    margin-top: -16px;
+    width: 98%;
+}
+.cmh5 {
+    
+    font-size: 18px;
+}
+.feature-icon {    
+            width: 80px;
+    height: 80px;
+    margin-top: -7px;
+    margin-left: 187px;
+   
+}
+.feature-icon .ic {
+    margin-top: 30px;
+}
+
+.texcen {
+    text-align: center;
+    font-size: 17px;
+    padding: 0 69px;
+}
+.div1 {
+    padding: 30px 15px;
+    margin-bottom: 20px;
+}
+.f-service li a:before {    
+    left: -1px;
+    margin-top: 11px;
+}
+.f-service li a {
+       font-size: 16px;   
+    margin-left: 20px;
+}
+.patient-wrap {
+    padding: 100px 0px;
+    padding-right: 50px;
+}
+    .date {    
+    margin-left: 432px;
+}
+.mlr {
+    margin: 33px 44px;
+}
+.blog-content-wrap h2 {   
+    font-size: 25px;    
+}
+.grey {    
+    font-size: 17px;   
+}
+.f-right {
+    padding-top: 300px;
+}
+.f-left {
+    
+    padding: 82px 46px;
+    bottom: 250px;
+    width: 100%;
+}
+.fsdrop {   
+    width: 530px;    
+    margin-bottom: 20px;
+}
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .date {    
+    margin-left: 139px;
+}
+.banner {
+    
+    padding: 57px 0;
+}
+.marleft {
+    margin-left: 12px;
+    margin-top: -40px;
+}
+.f-white {    
+    margin-top: 14px;
+}
+.f-left {
+    
+    padding: 39px 8px;
+}
+.mlr {
+    margin: 33px 143px;
+}
+
+.patient-wrap {
+    padding: 100px 0px;
+    padding-right: 107px;
+}
+.card-price{
+    margin-left: 11px;
+}
+.BC{
+    font-size: 14px;
+    width: 100%;
+
+}
+.service-bottom-title {    
+    padding: 11px 3px;   
+}
+.service-bottom-title .ct{
+        margin-left: 3px;
+}
+.comment-wrap li i {
+    margin-left: 4px;
+    padding-top: 23px;
+    
+}
+.green{
+    font-size: 29px;
+}
+.mt {
+    margin-top: 83px;
+}
+h3 {
+    
+    font-size: 25px;
+    margin-top: 64px;
+}
+.h1 {
+    font-size: 27px;
+   
+}
+.experience {    
+    bottom: 378px;    
+}
+.h5{
+    font-size: 18px;
+    margin-left: -2px;
+}
+.service {
+    margin-top: -394px;
+   
+}
+.service-bottom-title i {    
+    width: 54px;    
+}
+.doctor {   
+    padding-bottom: 209px;
+}
+.counter-list:before {
+    content: "";
+    position: absolute;
+    background: grey;
+    
+   height: 0;
+   width: 0;
+    top: 162px;
+    left: 24px;
+}
+.counter-list:after {
+    content: "";
+    position: absolute;
+    background: #6c757d;
+    height: 0px;
+    width: 0px;
+    top: 37px;
+    left: 218px;
+}
+.counter-list {
+    width: 50%;
+    float: left;
+    padding: 0px 42px;
+    padding-right: 68px;
+    padding-left: 15px;
+}
+.same{
+    font-size: 17px;
+}
+.h290 {    
+    font-size: 40px;
+}
+
+.h215 {    
+    font-size: 40px;
+}
+
+.h315 {    
+    font-size: 40px;
+}
+
+.h125 {    
+    font-size: 40px;
+}
+.gh {
+    font-size: 26px;
+    text-align: left;
+}
+.w25{
+    margin-left: 13px;
+}
+.form-wrapper {
+    
+    margin-left: 16px;
+ 
+}
+.form-style input {
+    
+    width:343px;
+}
+.fs-sms {    
+    width: 343px;    
+}
+.h5h {
+    
+    margin-top: -40px;
+}
+.cl{
+    
+    margin-left: -114px;
+}
+.ceo {
+    margin-top: 28px;
+    margin-left: -33px;
+}
+.fot-main {    
+    margin-left: 20px;
+}
+.fot-main li a {    
+    margin-right: 9px;
+}
+.comment-img {
+    margin-left: 0px;   
+    padding: 20px 0px;
+    margin-top: -16px;
+    width: 98%;
+}
+.cmh5 {
+    
+    font-size: 18px;
+}
+.feature-icon {    
+        width: 45px;
+    height: 45px;
+    margin-top: -7px;
+    margin-left: 63px;
+   
+}
+.feature-icon .ic {
+    margin-top: 15px;
+}
+.fsdrop {    
+        width: 343px;
+    margin-bottom: 16px; 
+}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.date{
+    margin-left: 217px;
+}
+.marleft {
+    margin-left: -4px;    
+}
+.gh {
+    font-size: 31px;
+}
+.f-white {    
+    margin-top: 14px;
+}
+.f-left {
+    
+    padding: 50px 8px;
+}
+.mlr {
+    margin: 33px 143px;
+}
+.green {
+    
+    font-size: 35px;
+    margin-bottom: 29px;
+    text-align: center;
+}
+.patient-wrap {
+    padding: 100px 0px;
+    padding-right: 107px;
+        text-align: center;
+}
+.card-price{
+    margin-left: 11px;
+}
+.BC{
+    font-size: 14px;
+    width: 100%;
+
+}
+.service-bottom-title {
+    
+    padding: 11px 3px;
+   
+}
+.p {
+    
+    font-size: 16px;
+}
+h3 {
+    
+    font-size: 25px;
+}
+.h1 {
+    font-size: 27px;
+   
+}
+.experience {    
+    bottom: 248px;    
+}
+.feature-icon {    
+    width: 60px;
+    height: 60px;    
+}
+.feature-icon .ic {
+    margin-top: 21px;
+}
+.h5{
+    font-size: 18px;
+    margin-left: -2px;
+}
+.service {
+    margin-top: -394px;
+   
+}
+.service-bottom-title i {    
+    width: 71px;    
+}
+.doctor {   
+    padding-bottom: 209px;
+}
+.counter-list:after {
+    content: "";
+    position: absolute;
+    background: #6c757d;
+    height: 0px;
+    width: 0px;
+    top: 37px;
+    left: 218px;
+}
+.counter-list:before {
+    content: "";
+    position: absolute;
+    background: grey;
+    
+   height: 0;
+   width: 0;
+    top: 162px;
+    left: 24px;
+}
+.counter-list {
+    width: 50%;
+    float: left;
+    padding: 0px 42px;
+    padding-right: 68px;
+    padding-left: 15px;
+}
+.same{
+    font-size: 17px;
+}
+.w25{
+    margin-left: 13px;
+}
+.form-wrapper {
+    
+    margin-left: 16px;
+ 
+}
+.form-style input {
+    
+    width: 461px;
+}
+.fs-sms {    
+    width: 461px;    
+}
+.h5h {
+    
+    margin-top: -40px;
+}
+.cl{
+    
+    margin-left: -114px;
+}
+.ceo {
+    margin-top: 28px;
+    margin-left: -33px;
+}
+
+
+.main-menu ul li a {
+    color: #ffffff !important;
+    font-size: 24px;
+    margin-top: 15px;
+}
+.fot-main {
+    
+    margin-left: 146px;
+}
+.fot-main li a {
+    
+    margin-right: 7px;
+}
+.comment-img {    
+    padding: 24px 17px;    
+}
+.main-menu ul li a {
+   margin-top: 13px;
+    font-size: 18px;
+}
+.ll {
+    margin-left: 68px;
+    margin-top: 27px;
+    font-size: 15px;
+    font-weight: 500;
+    
+}
+.bar {
+    width:41px;
+    margin-top: 19px;
+}
+.service-bottom-title .ct {    
+    padding-left: 30px;
+}
+.fsdrop {    
+        width: 461px;
+    margin-bottom: 16px; 
+}
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px){
+
+.main-menu ul li a {
+   margin-top: 13px;
+    font-size: 18px;
+}
+.fsdrop {    
+    width: 277px;   
+}
+.ll {
+    margin-left: 165px;
+    margin-top: 25px;
+    font-size: 16px;
+    font-weight: 500;
+    
+}
+.bar {
+    
+    margin-top: 19px;
+}
+.h1 {
+    font-size: 42px;
+    
+}
+
+    .service-bottom-title {    
+        padding: 11px 6px;    
+}
+.service-bottom-title i{    
+        width: 65px;   
+}
+.experience {    
+    bottom: 172px;  
+}
+.service {
+    margin-top: -394px;    
+}
+.BC {
+        
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.counter-list:after {    
+    left: 195px;
+}
+.same {    
+    font-size: 24px;    
+}
+.form-style input {    
+    width: 278px;    
+}
+.fs-sms {    
+    width: 562px;    
+}
+.cmh5 {
+   
+    font-size: 17px;
+}
+.date {    
+    margin-left: 276px;
+}
+.fot-main li a {
+    
+    margin-right: 1px;
+}
+
+}
+
+/*Extra extra large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) and (max-width: 1599.98px){
+
+
+}
+/*Extra extra large devices (larger desktops, 1600px and up)*/
+@media (min-width: 1600px) and (max-width: 1799.98px){
+
+
+}
+/*Extra extra large devices (larger desktops, 1800px and up)*/
+@media (min-width: 1800px) and (max-width: 1999.98px){
+
+
+}
+/*Extra extra large devices (larger desktops, 2000px and up)*/
+@media (min-width: 2000px){
+
+}
